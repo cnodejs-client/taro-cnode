@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@types/react": "^16.7.18",
-    "@types/webpack-env": "^1.13.6",
+    "@types/webpack-env": "^1.13.8",
     "@tarojs/cli": "^1.2.1",
     "@tarojs/plugin-babel": "^1.2.1",
     "@tarojs/plugin-csso": "^1.2.1",
