@@ -36,7 +36,7 @@
     "timeago.js": "^3.0.2"
   },
   "devDependencies": {
-    "@types/react": "^16.8.2",
+    "@types/react": "^16.8.12",
     "@types/webpack-env": "^1.13.6",
     "@tarojs/cli": "^1.2.15",
     "@tarojs/plugin-babel": "^1.2.15",
